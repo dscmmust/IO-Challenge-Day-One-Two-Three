@@ -8,7 +8,7 @@ From the 1st to 5th of April, armed with your favorite programming language, joi
 
 ## NB//
 
-**On Day 0ne and Two ( 1st and 2nd April) you'll be required to do the first question , push it to github and fill in this form for recording
+**On Day 0ne and Two ( 1st and 2nd April) you'll be required to do the first question , push it to github and fill in this form for recording**
 
 **Only Teams that submit their solutions will get the next questions sent to them.**
 
