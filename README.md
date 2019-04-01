@@ -13,3 +13,6 @@ From the 1st to 5th of April, armed with your favorite programming language, joi
 **Only Teams that submit their solutions will get the next questions sent to them.**
 
 __Questions will be sent to the email addresses you used when signing up.__
+
+
+
