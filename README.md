@@ -1,9 +1,9 @@
 ## IO-Challenge-Day-One - DSC MMUST
 
+![DSC Mmust Challenge](https://raw.githubusercontent.com/dscmmust/IO-Challenge-Day-One/master/IoChallenge.jpeg)
 
 Manipulation of computer files is an essential part of programming and is a necessary skill to learn. 
 From the 1st to 5th of April, armed with your favorite programming language, join us  as we study file operations from beginner to advanced levels.
-
 
 
 ## NB//
